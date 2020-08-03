@@ -9,13 +9,11 @@ ok
 
 
 Review : https://i.imgur.com/eVhQMdx.mp4
-Mom : ur mom 
-Ok : ok 
-Why I wanted to do this?
+# Why I wanted to do this?
 To Show Me People My Open-Source cuz i saw lot of people saying it is impossible but it is not
 
 
-IMPORTANT if u want to own this source 
+# IMPORTANT if u want to own this source 
 u need to countinue developing this and don't change the name
 
 
